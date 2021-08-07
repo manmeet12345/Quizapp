@@ -49,3 +49,25 @@
 .hud-main-text{
     text-align: center;
 }
+
+#progressBar{
+    width : 20rem;
+    height: 3.1rem;
+    border: 0.3rem solid #56a5eb;
+    margin-top: 1.5rem;
+    margin-left: 1rem;
+}
+
+#progressBarFull{
+    height: 2.6rem;
+    background-color: #56a5eb;
+  
+}
+
+#score{
+    margin-right: 4rem;
+}
+
+#score-prefix{
+    margin-right: 4rem ;
+}
