@@ -1,5 +1,5 @@
 # QUIZAPP
-This project is name Quiz app. It has been built using HTML, CSS and Javascript.
+This project  name is Quiz app. It has been built using HTML, CSS and Javascript.
 
 **Home- Page:** This is home page. Here user/player gets two buttons one is for playing the game and anothe is for showing the leaderboard of five 
 top scorers.
@@ -13,7 +13,7 @@ has answered and progress bar of his progress and also score.
 
 **End-Page:** After completing all the questions in quiz the player will be  directed to the end page that shows the final score
 of the player and that player can put his name in input field and can save his score. And he can play again using play again button or
-can go to home page.
+can go to home page using Home button.
 
 ![End-Page](https://user-images.githubusercontent.com/59912910/128629243-be636411-071e-42be-b39f-e1cd808b83db.PNG)
 
